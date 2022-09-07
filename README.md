@@ -88,7 +88,7 @@ Shopbop is a US online fashion apparel and accessories shop opened in 1999. It h
 - Our skills in JavaScript and DOM manipulation became better.
 - We all learned how to plan a project and execute that in a limited time frame.
 
-### Netlify link of the Project:  https://enchanting-banoffee-050dd5.netlify.app/
+### Netlify link of the Project:  https://shopbopclone.netlify.app/
 
 ### LinkedIn Profile link of the Team Members:
 - #### Rahul Kumar : https://www.linkedin.com/in/rahul-kumar-a76323230/
